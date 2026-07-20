@@ -1,7 +1,7 @@
 ## Hallo, I'm Alexandra! 😄 💖
 
 ## About me
-- Proud Falcon!
+- Proud Timberwolf & Falcon!
 - Learning Vibe Code
 - Works with Java Script
 
