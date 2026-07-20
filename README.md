@@ -1,9 +1,9 @@
-## Hallo, I'm Alexandra! 😄 💖
+Hallo, ich bin AJ! 😄 💖
 
-## About me
-- Proud Longhorn, Timberwolf, & Falcon!
-- Learning Vibe Code
-- Works with Java Script
+Über mich
+  - Stolzer Longhorn, Timberwolf & Falcon!
+  - Lerne gerade Vibe Code
+  - Arbeite mit JavaScript
 
-## My skills
-'JAVA SCRIPT'
+Meine Fähigkeiten
+  - JavaScript
