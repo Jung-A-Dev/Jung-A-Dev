@@ -1,7 +1,7 @@
 ## Hallo, I'm Alexandra! 😄 💖
 
 ## About me
-- Grade 8 at Deep Creek
+- Proud Falcon!
 - Learning Vibe Code
 - Works with Java Script
 
